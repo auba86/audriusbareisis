@@ -1,0 +1,11 @@
+1, Samsung Galaxy S10, 671, 12
+2, Huawei P30, 486, 9
+3, Xiaomi Note 8T, 159, 33
+4, iPhone 11 Pro Max, 1657, 1
+5, iPhone SE, 489, 7
+6, Huawei P20, 311, 14
+7, Honor 9x, 226, 50
+8, LG K50, 149, 22
+9, Nokia 2720 Flip, 85, 5
+10, Samsung Galaxy A40, 194, 17
+11, Naujas, 100, 1

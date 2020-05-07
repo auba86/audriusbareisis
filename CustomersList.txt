@@ -1,0 +1,5 @@
+Audrius,As123naujas789,audrius@gmail.com
+Tomas,Tomo123Passwordas,tomas@naujienos.lt
+test,Testtest123,test@test.lt
+Petras,Petras123456,petras@petras.lt
+bandymas,Bandymas123,bandymas@gmail.com
