@@ -7,5 +7,6 @@ public class OnlineStoreMain {
         Menu menu = new Menu();
         //link to Menu class method welcomeMenu()
         menu.welcomeMenu();
+        System.out.println("Sveikas pasauli");
     }
 }

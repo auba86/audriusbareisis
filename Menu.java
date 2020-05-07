@@ -108,6 +108,7 @@ public class Menu {
 
     }
 
+
     //method ask customer if he/she wants to buy something
     private boolean askAction() {
         System.out.println("Do you want to buy something? (Y/N)");
